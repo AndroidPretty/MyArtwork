@@ -1,1 +1,1 @@
-include ':entrance', ':RingProgressBar'
+include ':Artwork', ':RingProgressBar'
